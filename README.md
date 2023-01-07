@@ -1,8 +1,8 @@
 ### Hi there, I'm Bartek 👋
                                                                                                    
 🔭 I’m currently working on:
--Java course
--My first site
+- Java course
+- My first site
 
 🌱 I’m currently learning:
 - Java
