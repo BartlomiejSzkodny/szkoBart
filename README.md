@@ -1,4 +1,4 @@
-### Hi there, I'm Bartek 👋
+<p align=”center”>### Hi there, I'm Bartek 👋</p>
                                                                                                    
 🔭 I’m currently working on:
 - Java course
