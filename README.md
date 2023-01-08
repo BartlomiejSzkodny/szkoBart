@@ -1,4 +1,4 @@
-<p align=”center”>### Hi there, I'm Bartek 👋</p>
+<p align=”center”> Hi there, I'm Bartek 👋</p>
                                                                                                    
 🔭 I’m currently working on:
 - Java course
