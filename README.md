@@ -9,4 +9,7 @@
 - Angular
 - Spring Tools
 - Eclipse
-
+ 
+🔮 Things I want to lern in future:
+- Angular
+- Spring Tools
